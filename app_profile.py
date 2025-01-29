@@ -7,6 +7,7 @@ Created on Wed Jan 29 13:04:46 2025
 """
 
 import streamlit as st
+import panda as pd
 
 #Title of the app 
 st.title("Researcher Profile Page")
